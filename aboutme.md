@@ -4,7 +4,7 @@ title: About me
 subtitle: Bridging Languages- Your Expert Italian-English Translation Partner
 ---
 
-My name is Luisa Marzullo. I am a [https://www.naati.com.au/online-directory/](Naati) certified Italian-English translator.
+My name is Luisa Marzullo. I am a [Naati](https://www.naati.com.au/online-directory/) certified Italian-English translator.
 
 ### My history
 
