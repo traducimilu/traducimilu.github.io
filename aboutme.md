@@ -8,4 +8,4 @@ My name is Luisa Marzullo. I am a [Naati](https://www.naati.com.au/online-direct
 
 ### My history
 
-I graduated with a Bachelor's degree in Languages from the Univeristy of Sydney. Since 2010 I have been working as a freelance translator.
+I graduated with a Bachelor's degree in Languages from the Univeristy of Sydney. Since 2010, I have been working as a freelance translator.
