@@ -43,6 +43,16 @@
             </a>
           </li>
           {% endif %}
+		  {% if site.author.phone and site.footer-links-active.phone %}
+          <li>
+            <a href="tel:{{ site.author.email }}" title="Call me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
 		  {% if site.author.linkedin and site.footer-links-active.linkedin %}
           <li>
             <a href="https://linkedin.com/{{ site.author.linkedin }}" title="LinkedIn">
