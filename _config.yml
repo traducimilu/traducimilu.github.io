@@ -40,6 +40,7 @@ avatar: "/img/3_new.JPG"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Luisa Marzullo
+  phone: +39 9999999999
   email: "info@traducimilu.com"
   facebook: traducimilu  # eg. daattali
   github: traducimilu    # eg. daattali
@@ -50,6 +51,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
+  phone: true
   facebook: false
   email: true
   twitter: false
