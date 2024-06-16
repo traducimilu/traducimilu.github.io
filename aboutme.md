@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Everything in the world is data(at least for me)
+subtitle: Bridging Languages: Your Expert Italian-English Translation Partner
 ---
 
 My name is Luisa Marzullo. I am a [https://www.naati.com.au/online-directory/](Naati) certified Italian-English translator.
