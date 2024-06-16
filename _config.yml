@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://iamnagesh.github.io"
+url: "http://traducimilu.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Nagesh's Blog
+title: Luisa's Blog
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -28,7 +28,7 @@ navbar-links:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
-  CV: "https://drive.google.com/file/d/1lchHPeJrikdwabRujwkJ_MBfBoZvSXUd/view?usp=sharing"
+  CV: "https://www.thecampusqdl.com/uploads/files/pdf_sample_2.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -39,13 +39,13 @@ avatar: "/img/3_new.JPG"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Nagesh Kommuri
-  email: "kommuri.nagesh@gmail.com"
-  facebook: iamknagesh  # eg. daattali
-  github: iamnagesh    # eg. daattali
+  name: Luisa Marzullo
+  email: "info@traducimilu.com"
+  facebook: traducimilu  # eg. daattali
+  github: traducimilu    # eg. daattali
   twitter: yourname   # eg. daattali
-  linkedin: /in/iamknagesh  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: 2625338/nagesh  # eg. "3943160/daattali"
+  linkedin: /in/luisamarzullo  # eg. "pub/dean-attali/8/946/143"
+  stackoverflow: luisamarzullo  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
@@ -53,9 +53,9 @@ footer-links-active:
   facebook: false
   email: true
   twitter: false
-  github: true
+  github: false
   linkedin: true
-  stackoverflow: true
+  stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -72,7 +72,7 @@ footer-links-active:
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Kolkata"
+timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
