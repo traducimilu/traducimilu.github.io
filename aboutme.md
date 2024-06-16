@@ -4,13 +4,8 @@ title: About me
 subtitle: Everything in the world is data(at least for me)
 ---
 
-My name is Nagesh Kommuri. I have the following qualities:
+My name is Luisa Marzullo. I am a [https://www.naati.com.au/online-directory/](Naati) certified Italian-English translator.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My history
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I graduated with a Bachelor's degree in Languages from the Univeristy of Sydney. Since 2010 I have been working as a freelance translator.
